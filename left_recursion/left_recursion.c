@@ -8,7 +8,7 @@ int main()
     int num;
     char production[10][SIZE];
     int index = 3; 
-    printf("Name: Yogesh Gaur \nRoll No: 1816110248 \n");
+    printf("Name: Srishti Gaur \nRoll No: 1816110211 \n");
     printf("Enter Number of Production : ");
     scanf("%d", &num);
     printf("Enter the grammar as E->E-A :\n");
